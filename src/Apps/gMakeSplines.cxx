@@ -354,7 +354,6 @@ void PrintSyntax(void)
     << " [--input-cross-section xml_file]"
     << " [--event-generator-list list_name]"
     << " [--xml-path config_xml_dir]"
-    << " [--Hello World]"
     << " [--message-thresholds xml_file]\n\n";
 }
 //____________________________________________________________________________
