@@ -1,0 +1,19 @@
+{ decls }
+namespace genie {  }
+namespace genie { namespace alvarezruso {  } }
+
+[ libGPhCohXS.so ]
+# List of selected classes
+class genie::AlvarezRusoCOHPiPXSec
+class genie::BergerSehgalCOHPiPXSec2015
+class genie::BergerSehgalFMCOHPiPXSec2015
+class genie::COHElasticPXSec
+class genie::COHXSec
+class genie::COHXSecAR
+class genie::ReinSehgalCOHPiPXSec
+class genie::alvarezruso::ARConstants
+class genie::alvarezruso::ARSampledNucleus
+class genie::alvarezruso::AlvarezRusoCOHPiPDXSec
+# List of selected namespaces
+namespace genie
+namespace genie::alvarezruso

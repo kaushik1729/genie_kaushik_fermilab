@@ -1,0 +1,12 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhMNucXS.so ]
+# List of selected classes
+class genie::EmpiricalMECPXSec2015
+class genie::MECHadronTensor
+class genie::MECXSec
+class genie::NievesSimoVacasMECPXSec2016
+# List of selected namespaces
+namespace genie
+namespace genie::utils::mec

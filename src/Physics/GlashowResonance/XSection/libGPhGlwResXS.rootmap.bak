@@ -1,0 +1,8 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhGlwResXS_rdict.pcm ]
+# List of selected classes
+class genie::GLRESPXSec
+# List of selected namespaces
+namespace genie

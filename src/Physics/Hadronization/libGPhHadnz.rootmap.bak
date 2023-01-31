@@ -1,0 +1,18 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhHadnz_rdict.pcm ]
+# List of selected classes
+class genie::CharmHadronization
+class genie::CollinsSpillerFragm
+class genie::FragmentationFunctionI
+class genie::HadronizationModelBase
+class genie::HadronizationModelI
+class genie::KNOHadronization
+class genie::KNOPythiaHadronization
+class genie::PetersonFragm
+class genie::PythiaHadronization
+# List of selected namespaces
+namespace genie
+namespace genie::utils::frgmfunc
+namespace genie::utils::fragmrec

@@ -1,0 +1,11 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhDcy.so ]
+# List of selected classes
+class genie::BaryonResonanceDecayer
+class genie::Decayer
+class genie::PythiaDecayer
+class genie::UnstableParticleDecayer
+# List of selected namespaces
+namespace genie

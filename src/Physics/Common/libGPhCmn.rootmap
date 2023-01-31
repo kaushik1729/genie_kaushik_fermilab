@@ -1,0 +1,13 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhCmn.so ]
+# List of selected classes
+class genie::HadronicSystemGenerator
+class genie::InitialStateAppender
+class genie::KineGeneratorWithCache
+class genie::OutgoingDarkGenerator
+class genie::PrimaryLeptonGenerator
+class genie::VertexGenerator
+# List of selected namespaces
+namespace genie

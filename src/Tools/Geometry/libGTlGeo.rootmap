@@ -1,0 +1,22 @@
+{ decls }
+namespace genie { namespace geometry {  } }
+
+[ libGTlGeo.so ]
+# List of selected classes
+class genie::geometry::FidCylinder
+class genie::geometry::FidPolyhedron
+class genie::geometry::FidShape
+class genie::geometry::FidSphere
+class genie::geometry::GeomVolSelectorBasic
+class genie::geometry::GeomVolSelectorFiducial
+class genie::geometry::GeomVolSelectorI
+class genie::geometry::PathSegment
+class genie::geometry::PathSegmentList
+class genie::geometry::PlaneParam
+class genie::geometry::PointGeomAnalyzer
+class genie::geometry::ROOTGeomAnalyzer
+class genie::geometry::RayIntercept
+# List of selected namespaces
+namespace genie
+namespace genie::geometry
+namespace genie::utils::geometry

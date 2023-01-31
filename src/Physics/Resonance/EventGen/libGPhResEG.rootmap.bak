@@ -1,0 +1,14 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhResEG_rdict.pcm ]
+# List of selected classes
+class genie::RESHadronicSystemGenerator
+class genie::RESInteractionListGenerator
+class genie::RESKinematicsGenerator
+class genie::RESPrimaryLeptonGenerator
+class genie::RSPPHadronicSystemGenerator
+class genie::RSPPInteractionListGenerator
+class genie::RSPPResonanceSelector
+# List of selected namespaces
+namespace genie

@@ -1,0 +1,13 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhQELEG.so ]
+# List of selected classes
+class genie::QELEventGenerator
+class genie::QELEventGeneratorSM
+class genie::QELHadronicSystemGenerator
+class genie::QELInteractionListGenerator
+class genie::QELKinematicsGenerator
+class genie::QELPrimaryLeptonGenerator
+# List of selected namespaces
+namespace genie

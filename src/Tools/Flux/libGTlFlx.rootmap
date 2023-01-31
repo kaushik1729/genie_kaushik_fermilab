@@ -1,0 +1,35 @@
+{ decls }
+namespace genie { namespace flux {  } }
+
+[ libGTlFlx.so ]
+# List of selected classes
+class genie::flux::GAstroFlux
+class genie::flux::GAtmoFlux
+class genie::flux::GBGLRSAtmoFlux
+class genie::flux::GCylindTH1Flux
+class genie::flux::GDiffuseAstroFlux
+class genie::flux::GFLUKAAtmoFlux
+class genie::flux::GFlavorMap
+class genie::flux::GFlavorMixerFactory
+class genie::flux::GFlavorMixerI
+class genie::flux::GFluxBlender
+class genie::flux::GFluxDriverFactory
+class genie::flux::GFluxExposureI
+class genie::flux::GFluxFileConfigI
+class genie::flux::GHAKKMAtmoFlux
+class genie::flux::GJPARCNuFlux
+class genie::flux::GJPARCNuFluxPassThroughInfo
+class genie::flux::GMonoEnergeticFlux
+class genie::flux::GNuMIFlux
+class genie::flux::GNuMIFluxPassThroughInfo
+class genie::flux::GPointSourceAstroFlux
+class genie::flux::GSimpleNtpAux
+class genie::flux::GSimpleNtpEntry
+class genie::flux::GSimpleNtpFlux
+class genie::flux::GSimpleNtpMeta
+class genie::flux::GSimpleNtpNuMI
+# List of selected namespaces
+namespace genie
+namespace genie::flux
+# List of selected enums and outer classes
+enum genie::flux::EExposure

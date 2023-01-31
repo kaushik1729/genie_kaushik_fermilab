@@ -1,0 +1,9 @@
+{ decls }
+namespace genie {  }
+
+[ libGPhGlwResEG.so ]
+# List of selected classes
+class genie::GLRESGenerator
+class genie::GLRESInteractionListGenerator
+# List of selected namespaces
+namespace genie
