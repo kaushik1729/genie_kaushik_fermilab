@@ -11,10 +11,11 @@
           arXiv:1008.4619
           DOI: 10.1103/PhysRevD.82.113005
 
-\author   Aaron Meyer <asmeyer2012 \at uchicago.edu>
-          based off DipoleELFormFactorsModel by
-          Costas Andreopoulos <costas.andreopoulos \at stfc.ac.uk>
-          STFC, Rutherford Appleton Laboratory
+\author   Kaushik Borah <kaushik.borah99 \at uky.edu>
+          University of Kentucky, Lexington, KY 40506, USA
+          based off ZExpAxialFormFactorModel by
+          Aaron Meyer <asmeyer2012 \at uchicago.edu>
+          University of Chicago, Chicago, Illinois, 60637, USA
 
 \created  August 16, 2013
 
