@@ -4,9 +4,15 @@
  For the full text of the license visit http://copyright.genie-mc.org
  or see $GENIE/LICENSE
 
-\author   
+\author   Kaushik Borah <kaushik.borah99 \at uky.edu>
+          University of Kentucky, Lexington, KY 40506, USA
+          based off ZExpAxialFormFactorModel by
+          Aaron Meyer <asmeyer2012 \at uchicago.edu>
+          University of Chicago, Chicago, Illinois, 60637, USA
 
  For the class documentation see the corresponding header file.
+
+
 
 */
 //____________________________________________________________________________
